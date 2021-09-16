@@ -1,6 +1,6 @@
 # UNQ » UIs » TP Notes
 
-[![](https://jitpack.io/v/unq-ui/unq-spotify.svg)](https://jitpack.io/#unq-ui/unq-spotify)
+[![](https://jitpack.io/v/unq-ui/unq-notes.svg)](https://jitpack.io/#unq-ui/unq-notes)
 
 
 Notes es una plataforma donde los usuarios pueden agregar/modificar/notas notas.
@@ -25,7 +25,7 @@ Agregar la dependencia:
 ```xml
 <dependency>
     <groupId>com.github.unq-ui</groupId>
-    <artifactId>***</artifactId>
+    <artifactId>unq-notes</artifactId>
     <version>v1.0.0</version>
 </dependency>
 ```
