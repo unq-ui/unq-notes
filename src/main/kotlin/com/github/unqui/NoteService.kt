@@ -38,6 +38,7 @@ class NoteService() {
         val note = getNote(userId, noteId)
         note.title = noteDraft.title
         note.description = noteDraft.description
+        note.lastModifiedDate = LocalDateTime.now()
         return note
     }
 
